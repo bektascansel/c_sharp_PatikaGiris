@@ -1,0 +1,15 @@
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\bin\Debug\net6.0\c_sharp giriş.exe
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\bin\Debug\net6.0\c_sharp giriş.deps.json
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\bin\Debug\net6.0\c_sharp giriş.runtimeconfig.json
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\bin\Debug\net6.0\c_sharp giriş.dll
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\bin\Debug\net6.0\c_sharp giriş.pdb
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\c_sharp giriş.csproj.AssemblyReference.cache
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\c_sharp giriş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\c_sharp giriş.AssemblyInfoInputs.cache
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\c_sharp giriş.AssemblyInfo.cs
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\c_sharp giriş.csproj.CoreCompileInputs.cache
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\c_sharp giriş.dll
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\refint\c_sharp giriş.dll
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\c_sharp giriş.pdb
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\c_sharp giriş.genruntimeconfig.cache
+C:\Users\CANSEL BEKTAŞ\Documents\c# patika\c_sharp giriş\obj\Debug\net6.0\ref\c_sharp giriş.dll
