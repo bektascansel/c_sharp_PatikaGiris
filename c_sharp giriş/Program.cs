@@ -1,4 +1,7 @@
-﻿ class Program
+﻿
+
+//https://app.patika.dev/canselbktas
+class Program
 {
     public static void Main(string[] args)
     {
